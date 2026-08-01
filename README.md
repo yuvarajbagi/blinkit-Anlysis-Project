@@ -80,5 +80,5 @@ Aspiring Data Analyst
 
 ### Connect with Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/yuvarajbagi
+- LinkedIn: https://www.linkedin.com/in/yuvaraj-bagi-9b1863326
